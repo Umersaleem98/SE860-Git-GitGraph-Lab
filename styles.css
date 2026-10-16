@@ -13,3 +13,13 @@ body {
   background: #ffffff;
   border-radius: 8px;
 }
+
+/* Portal announcement banner */
+header,
+.header-banner {
+  padding: 1rem 1.5rem;
+  background: #123c69;
+  color: #ffffff;
+  text-align: center;
+  font-weight: bold;
+}
