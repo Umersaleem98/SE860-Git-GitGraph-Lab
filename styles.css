@@ -1,0 +1,25 @@
+/* Student portal layout */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f7fb;
+  color: #172b4d;
+}
+
+#content {
+  max-width: 960px;
+  margin: 2rem auto;
+  padding: 1.5rem;
+  background: #ffffff;
+  border-radius: 8px;
+}
+
+/* Portal announcement banner */
+header,
+.header-banner {
+  padding: 1rem 1.5rem;
+  background: #123c69;
+  color: #ffffff;
+  text-align: center;
+  font-weight: bold;
+}
